@@ -27,7 +27,7 @@ We designed and implemented a comprehensive stock forecasting and analysis platf
     Both models were trained and validated using a time-based split (training, validation, test), with rigorous hyperparameter tuning and regularization.
 
 * **Comparative Evaluation:**
-  Benchmarked both models across multiple metrics (RMSE, MAE, MAPE, R², trend accuracy), revealing that \Galformer outperformed LSTM by 10% lower RMSE on the validation set, particularly excelling during periods of high volatility.
+  Benchmarked both models across multiple metrics (RMSE, MAE, MAPE, R², trend accuracy), revealing that Galformer outperformed LSTM by 10% lower RMSE on the validation set, particularly excelling during periods of high volatility.
 
 * **Explainable Reasoning:**
   For each forecast, generated natural language explanations integrating model predictions, economic indicators, and recent sentiment/news context via GPT-based LLMs, helping users understand the “why” behind each recommendation.
