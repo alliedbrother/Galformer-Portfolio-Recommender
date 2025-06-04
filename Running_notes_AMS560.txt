@@ -1,0 +1,19 @@
+Hugging Face:
+	TOKEN:
+		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
+
+
+https://newsapi.org/register/success
+	TOKEN:
+		20f6e273a8a445a9bc0b142822ba5ad8
+
+
+
+
+Federal Reserve Economic Data (FRED): fredapi
+	TOKEN:
+		db61e0d65c4d2a1053221aec21822d4e
+		
+
+https://colab.research.google.com/drive/1qq4Yal5RoCnXTsYvTXUut7GJGH4Z_w0A#scrollTo=V5-wTYD78UBp
+
